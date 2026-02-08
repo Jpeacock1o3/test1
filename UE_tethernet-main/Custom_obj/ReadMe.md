@@ -1,0 +1,1 @@
+Put this folder under Content folder of the project
